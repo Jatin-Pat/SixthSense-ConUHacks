@@ -1,0 +1,11 @@
+.custom-dropdown-menu.dropdown-menu {
+    max-height: 200px;  /* Adjust this value */
+    overflow-y: auto;
+}
+
+.custom-dropdown-toggle, .custom-dropdown-menu {
+    width: 160px;
+}
+
+
+
