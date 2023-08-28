@@ -44,21 +44,7 @@ Prerequisites:
    * Maven wrapper scripts for Unix-based systems and Windows, respectively.
    
 5. `pom.xml`
-   * Defines project information, dependencies, plugins, goals, etc., for Maven.
-
-6. `.vscode/`
-   * Configuration and settings files for the VS Code editor.
-   
-7. `.idea/`
-   * Configuration and settings files for the IntelliJ IDEA.
-
-8. `node_modules/`
-   * Installed npm packages (this folder should be in `.gitignore`).
-
-9. `StockVisualizerApplication`
-   * (Description of this file or directory was not provided. If this is an important part, provide a brief description.)
-
-(Note: Adjust the hierarchy and add more details as needed based on your specific project structure.)
+   * Defines project information, dependencies, plugins, goals..., for Maven.
 
 ## Running the Application Locally
 
@@ -92,6 +78,3 @@ Prerequisites:
      ```
      http://localhost:3000/
      ```
-   * (Replace the port `3000` if your React app runs on a different port.)
-
-(Note: Please ensure you have the required software installed, as mentioned in the 'Prerequisites' section.)
